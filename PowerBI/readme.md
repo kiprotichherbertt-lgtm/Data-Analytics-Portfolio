@@ -10,5 +10,3 @@ Interactive Power BI report built using the same data from the Excel version.
 - `Hospital_Admissions_Report.pbix`
 - `Dashboard_Screenshot.png`
 
-![Dashboard Preview](Dashboard_Screenshot.png)
-
