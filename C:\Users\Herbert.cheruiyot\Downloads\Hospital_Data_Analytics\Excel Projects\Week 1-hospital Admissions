@@ -1,0 +1,14 @@
+# Hospital Admissions Dashboard – Excel
+Excel dashboard analyzing hospital admissions, stay length, and treatment costs.
+
+## Highlights
+- Cost banding (Normal vs Expensive > 50,000) 
+- Chart visuals for trends
+
+## Files
+- `Hospital_Dashboard_Excel.xlsx`
+- `Hospital_Dashboard_Screenshot.png`
+
+![Dashboard Preview](Hospital_Dashboard_Screenshot.png)
+
+Add README for Week 1 Excel dashboard
